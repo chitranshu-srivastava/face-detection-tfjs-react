@@ -1,3 +1,3 @@
 # object-detection-tfjs-react
 
-Detect faces in an image using tensor flow's coco-ssd and react js
+Detect faces and object in an image using tensor flow's coco-ssd and react js
